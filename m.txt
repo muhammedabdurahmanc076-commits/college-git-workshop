@@ -1,5 +1,7 @@
-good moarning
-hello
-hi
-iam not here
-not a problem+
+
+a:hello
+b:hi
+a:Where are you
+b:iam not here
+a:any problem
+b:not a problem
